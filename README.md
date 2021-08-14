@@ -4,8 +4,8 @@ This is a challenge to implement printf in C.
 
 ## Usage
 ### Compling
-To compile
- `make`
+To compile 
+`make`
  To remove objects
  `make clean`
  To remove objects and binary file (program)
