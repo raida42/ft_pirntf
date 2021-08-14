@@ -6,7 +6,7 @@ This is a challenge to implement printf in C.
 ### Compling
 To compile:
 
-  `make`
+ - `make`
 
 To remove objects:
 
