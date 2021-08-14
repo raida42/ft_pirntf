@@ -10,12 +10,12 @@ To compile:
 
 To remove objects:
 
-  `make clean`
+ - `make clean`
 
 To remove objects and binary file (program):
 
-  `make fclean`
+ -`make fclean`
 
 To re-compile:
 
-  `make re`
+ -`make re`
