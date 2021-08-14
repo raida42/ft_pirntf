@@ -2,8 +2,7 @@
 
 This is a challenge to implement printf in C.
 
-## Usage
-### Compling
+## Compling
 To compile:
 
  - `make`
