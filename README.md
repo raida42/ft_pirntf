@@ -19,3 +19,10 @@ To remove objects and binary file (program):
 To re-compile:
 
  - `make re`
+
+## Test
+```
+% make
+% gcc libftprintf.a main.c
+% ./a.out
+```
