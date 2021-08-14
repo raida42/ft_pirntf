@@ -6,15 +6,16 @@ This is a challenge to implement printf in C.
 ### Compling
 To compile 
 
-`make`
+  `make`
 
 To remove objects
 
-`make clean`
+  `make clean`
+
 To remove objects and binary file (program)
 
-`make fclean`
+  `make fclean`
 
 To re-compile:
 
-`make re`
+  `make re`
