@@ -4,15 +4,15 @@ This is a challenge to implement printf in C.
 
 ## Usage
 ### Compling
-To compile 
+To compile:
 
   `make`
 
-To remove objects
+To remove objects:
 
   `make clean`
 
-To remove objects and binary file (program)
+To remove objects and binary file (program):
 
   `make fclean`
 
